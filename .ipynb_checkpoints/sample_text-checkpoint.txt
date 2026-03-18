@@ -1,0 +1,22 @@
+GENERATIVE ENGINE OPTIMIZATION
+
+Generative Engine Optimization is the process of optimizing content
+so that it performs well in AI-driven search engines such as ChatGPT,
+Perplexity, and other generative search systems.
+
+WHY CONTENT STRUCTURE MATTERS
+
+Well-structured content helps users and AI systems understand
+information quickly. Proper headings, clear sections, and organized
+ideas improve readability and information retrieval.
+
+KEY FACTORS IN GEO
+
+Important elements of GEO include readability, keyword relevance,
+semantic clarity, structured headings, and high-quality informative
+content.
+
+BENEFITS OF GEO
+
+Optimized content improves discoverability and increases the chances
+of appearing in AI-generated answers.
