@@ -51,7 +51,7 @@ This project evaluates content quality using metrics such as readability, keywor
 ## Installation and Setup
 
 ```bash
-git clone https://github.com/your-username/AI-Content-Optimization-Tool.git
+git clone https://github.com/insha23/AI-Content-Optimization-Tool.git
 cd AI-Content-Optimization-Tool
 pip install -r requirements.txt
 streamlit run app.py
