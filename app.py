@@ -8,9 +8,7 @@ from nltk.corpus import stopwords
 from wordcloud import WordCloud
 
 # Download NLTK data
-nltk.download("punkt")
-nltk.download("punkt_tab")
-nltk.download("stopwords")
+nltk.data.path.append("/home/appuser/nltk_data")
 
 
 def simplify_text(text):
