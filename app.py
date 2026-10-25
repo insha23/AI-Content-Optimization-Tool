@@ -9,6 +9,9 @@ from wordcloud import WordCloud
 
 # Download NLTK data
 nltk.data.path.append("/home/appuser/nltk_data")
+nltk.download("punkt", download_dir="/home/appuser/nltk_data")
+nltk.download("punkt_tab", download_dir="/home/appuser/nltk_data")
+nltk.download("stopwords", download_dir="/home/appuser/nltk_data")
 
 
 def simplify_text(text):
